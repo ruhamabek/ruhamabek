@@ -3,7 +3,6 @@
 🌱 I’m currently diving into frontend development to expand my skill set beyond backend and database work.
 💻 My experience: 1.5 years with MongoDB, Node.js, React.js, TypeScript.
 💞️ I’m looking to collaborate on frontend projects and backend services.
-📫 Reach me on LinkedIn!
 ⚡ Fun fact: I enjoy exploring new tech stacks and always look forward to learning new programming skills.
 <!---
 ruhamabek/ruhamabek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
