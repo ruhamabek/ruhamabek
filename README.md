@@ -1,7 +1,8 @@
 👋 Hi, I’m Ruhama Bekele, also known as @ruhamabek on GitHub.
 👀 I’m interested in full stack web development, especially working with mongoDB and SQL and creating robust, scalable systems.
 🌱 I’m currently diving into frontend development to expand my skill set beyond backend and database work.
-💻 My experience: 1.5 years with MongoDB, Node.js, React.js, TypeScript.
+💻 My experience: 1
+year with MongoDB, Node.js, React.js, TypeScript.
 💞️ I’m looking to collaborate on frontend projects and backend services.
 
 <!---
