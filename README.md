@@ -16,9 +16,7 @@
 
 💡 Experience so far:
 
-1.5 years working with MongoDB, Node.js, React.js, TypeScript
-
-1 year building with Prisma + PostgreSQL
+1.5 years working with Next.js , MongoDB, Node.js, React.js, TypeScript , Prisma + PostgreSQL
 
 Hands-on with both frontend and backend services
 
