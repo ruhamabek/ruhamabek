@@ -10,11 +10,6 @@
 
 ---
 
-
-
-### 📈 GitHub Highlights
- 
-
 ### 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/ruhama-bekele/" target="_blank">
